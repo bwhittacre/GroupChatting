@@ -21,4 +21,4 @@ For this project, I used Java, and the net, io, and util modules.
 
 - Integration between multiple machines.
 - Password integration.
-- Cencsorship for messages.# GroupChatting
+- Cencorship for messages.# GroupChatting
